@@ -1,19 +1,6 @@
-rAthena
+9Athena
 =======
-
-Build Status: [![Build Status](https://travis-ci.org/rathena/rathena.png?branch=master)](https://travis-ci.org/rathena/rathena) [![Build status](https://ci.appveyor.com/api/projects/status/8574b8nlwd57loda/branch/master?svg=true)](https://ci.appveyor.com/project/rAthenaAPI/rathena/branch/master)
-
-Table of Contents
----------
-1. What is rAthena?
-2. Prerequisites
-3. Installation
-4. Troubleshooting
-5. Helpful Links
-6. More Documentation
-7. How to Contribute
-
-1. What is rAthena?
+วิธีติดตั้ง
 ---------
 rAthena is a collaborative software development project revolving around the
 creation of a robust massively multiplayer online role playing game (MMORPG)
